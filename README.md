@@ -1,6 +1,6 @@
 # Travel-Tourism_Website 
 **Tourly: Your Ultimate Travel Companion**
-Tourly is a comprehensive travel and tourism website designed to ignite your wanderlust and simplify your travel planning process. Built with HTML, CSS, and JavaScript, this project offers an immersive experience akin to exploring the world from the comfort of your own home.
+: **Tourly** is a comprehensive travel and tourism website designed to ignite your wanderlust and simplify your travel planning process. Built with HTML, CSS, and JavaScript, this project offers an immersive experience akin to exploring the world from the comfort of your own home.
 
 **Features:**
 
