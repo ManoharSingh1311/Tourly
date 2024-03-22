@@ -14,6 +14,7 @@
 **Inspiring Travel Content**: Stay informed and inspired with our curated blog content, featuring travel tips, destination highlights, and personal stories from fellow adventurers.
 
 **Technologies Used:**
+
 **1.HTML, CSS, and JavaScript:** Leveraged to create an engaging and interactive user interface.
 
 **2.Responsive Design Principles**: Implemented to ensure optimal viewing experiences across various screen sizes.
