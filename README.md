@@ -60,4 +60,89 @@ Ensure you have the following software installed:
    ```sh
    
    git clone https://github.com/ManoharSingh1311/Tourly
-   
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine using Git:
+
+```sh
+git clone https://github.com/your-username/listing-app.git
+cd listing-app
+ ````
+
+### 2. Install Node.js and npm
+Make sure Node.js and npm (Node Package Manager) are installed on your machine:
+
+````sh
+node -v
+npm -v
+````
+If not installed, download and install them from `Node.js` official website.
+
+### 3. Install Project Dependencies
+Install all the necessary dependencies:
+```sh
+npm install
+````
+### 4. Set Up Environment Variables
+Create a `.env` file in the root directory to store your environment variables:
+```sh
+touch .env
+````
+Add the following lines to the .env file
+```sh
+MONGODB_URI=your_mongodb_connection_string
+SECRET=your_secret_key
+````
+Replace `your_mongodb_connection_string` with your MongoDB connection URI and `your_secret_key` with a secure, random string.
+
+### 5. Start MongoDB Server
+
+Ensure your MongoDB server is running
+
+- **MongoDB Atlas:** Make sure your cluster is active.
+- **Local MongoDB server:** Start it with:
+
+````sh
+   mongod
+````
+### 6. Start the Application
+Start the Node.js application:
+
+```sh
+npm start
+````
+The server should start on `http://localhost:3000.`
+
+### 7. Open the Application
+Open your browser and go to:
+```sh
+http://localhost:3000
+````
+### 8. Install Nodemon (Optional)
+For development, install nodemon to automatically restart the server on changes:
+```sh
+npm install -g nodemon
+nodemon
+```
+### 9. Verify Everything is Working
+Test the application by creating, editing, and reviewing listings to ensure all features work correctly.
+
+Troubleshooting
+** MongoDB Connection Errors: ** Ensure your MongoDB server is running and the .env file has the correct connection string.
+** Missing Dependencies: ** Check for any errors in the terminal and install missing dependencies.
+
+## Contact Information:
+For any inquiries, please contact me at :  burathimannu@gmail.com
+
+
+
+
+
+
+
+
+
