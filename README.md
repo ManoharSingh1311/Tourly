@@ -19,16 +19,22 @@ This project is a web application that allows users to create, view, edit, and d
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/HOmePage.png)
+![Home Page](screenshots/HomePage.png)
+
+### SignUp Page
+![Leave a Review](screenshots/SignUpPage.png)
+
+### Login Page
+![Leave a Review](screenshots/LoginPage.png)
 
 ### Create Listing
-![Create Listing](screenshots/NewListing.png)
+![Create Listing](screenshots/NewListingPage.png)
 
 ### Listing Details
-![Listing Details](screenshots/listing_details.png)
+![Listing Details](screenshots/Edit&ReviewPage.png)
 
 ### Leave a Review
-![Leave a Review](screenshots/leave_review.png)
+![Leave a Review](screenshots/AddinReview.png)
 
 > **Note:** Replace the paths (e.g., `screenshots/home_page.png`) with the actual paths where your screenshots are saved.
 
