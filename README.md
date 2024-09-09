@@ -19,10 +19,10 @@ This project is a web application that allows users to create, view, edit, and d
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/HOmePage.png)
 
 ### Create Listing
-![Create Listing](screenshots/create_listing.png)
+![Create Listing](screenshots/NewListing.png)
 
 ### Listing Details
 ![Listing Details](screenshots/listing_details.png)
