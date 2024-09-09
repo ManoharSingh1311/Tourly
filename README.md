@@ -13,7 +13,7 @@ This project is a web application that allows users to create, view, edit, and d
 - **Leave Reviews:** Authenticated users can leave a review with a star rating and comment.
 - **Manage Reviews:** Users can delete their own reviews.
 - **Responsive Design:** Uses Bootstrap for responsive design, ensuring usability across various devices.
-- - **MVC Architecture**: Separation of concerns into Models, Views, and Controllers for maintainable and scalable code.
+- **MVC Architecture**: Separation of concerns into Models, Views, and Controllers for maintainable and scalable code.
 
 
 ## Screenshots
@@ -59,5 +59,5 @@ Ensure you have the following software installed:
 1. **Clone the repository:**
    ```sh
    
-   git clone https://github.com/ManoharSingh/Tourly
+   git clone https://github.com/ManoharSingh1311/Tourly
    
