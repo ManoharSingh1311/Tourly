@@ -20,7 +20,58 @@
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+To run this project locally, follow these steps:tourly/
+├── controllers/
+│   ├── reviews.js
+│   ├── users.js
+├── init/
+│   ├── data.js
+│   └── index.js
+├── models/
+│   ├── listing.js
+│   ├── review.js
+│   └── user.js
+├── node_modules/
+├── public/
+│   ├── css/
+│   │   ├── rating.css
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── manohar's_favicon_logo.ico
+├── routes/
+│   ├── listing.js
+│   ├── review.js
+│   └── user.js
+├── utils/
+│   ├── expresserror.js
+│   └── wrapasync.js
+├── views/
+│   ├── includes/
+│   │   ├── flash.ejs
+│   │   ├── footer.ejs
+│   │   └── navbar.ejs
+│   ├── layouts/
+│   │   └── boilerplate.ejs
+│   ├── listings/
+│   │   ├── edit.ejs
+│   │   ├── index.ejs
+│   │   ├── new.ejs
+│   │   └── show.ejs
+│   ├── users/
+│   │   └── error.ejs
+│   └── error.ejs
+├── .env
+├── app.js
+├── cloudConfig.js
+├── middleware.js
+├── package-lock.json
+├── package.json
+└── schema.js
+
+
+**Project Structure**
+- 
 
 1. **Clone the repository:**
    ```bash
