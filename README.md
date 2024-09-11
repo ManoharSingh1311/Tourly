@@ -36,7 +36,7 @@ This project is a web application that allows users to create, view, edit, and d
 ### Leave a Review
 ![Leave a Review](screenshots/AddinReview.png)
 
-> **Note:** Replace the paths (e.g., `screenshots/home_page.png`) with the actual paths where your screenshots are saved.
+
 
 ## Tech Stack
 
