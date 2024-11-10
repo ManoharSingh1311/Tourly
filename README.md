@@ -134,6 +134,7 @@ Test the application by creating, editing, and reviewing listings to ensure all 
 ### Troubleshooting: 
 
 **MongoDB Connection Errors:** Ensure your MongoDB server is running and the .env file has the correct connection string.
+
 **Missing Dependencies:** Check for any errors in the terminal and install missing dependencies.
 
 ## Contact Information:
